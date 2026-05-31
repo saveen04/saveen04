@@ -86,14 +86,11 @@
 
 ## 🏆 Achievements
 
-## 🏆 Achievements
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=saveen04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 <br>
 <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Expert-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python%20Developer-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%20Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
