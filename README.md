@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=500&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Mobile+Application+Developer;UI%2FUX+Designer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Modern+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Mobile+Application+Developer;UI%2FUX+Designer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Modern+Digital+Experiences" alt="Typing SVG" />
 
 </div>
 
