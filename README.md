@@ -126,23 +126,33 @@ Cross-platform mobile applications with modern UI/UX and scalable backend archit
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/saveen04">
-<img src="https://skillicons.dev/icons?i=github" />
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/saveen04" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
 
-<a href="https://www.linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/saveen-kumar-12b65b284/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:saveenkumar04@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
 </a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/GitHub-saveen04-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/LinkedIn-Saveen%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/Email-saveenkumar04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</div>
 
 ### 👀 Profile Visitors
 
