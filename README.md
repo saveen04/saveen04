@@ -68,21 +68,31 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saveen04&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saveen04&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </div>
 
----
+### 🐍 Python
+- AI & Machine Learning
+- Data Analytics
+- Computer Vision
+- Automation
+
+### ⚡ JavaScript
+- Full Stack Development
+- React & Next.js
+- Node.js APIs
+- Modern Web Applications
 
 ## 🏆 GitHub Trophies
 
+## 🏆 Achievements
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=saveen04&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saveen04&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
