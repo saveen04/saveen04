@@ -56,13 +56,17 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saveen04&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saveen04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saveen04&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saveen04&layout=compact&theme=tokyonight"/>
 
 </div>
 
----
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saveen04&theme=tokyo-night"/>
+
+</div>
 
 ## 📈 Most Used Languages
 
@@ -121,8 +125,6 @@ AI-specialized animal classification platform built using TensorFlow, Keras, Nex
 ☕ Coffee + Coding = Productivity
 
 🚀 Always learning something new
-
---
 
 ## 🌐 Connect With Me
 
