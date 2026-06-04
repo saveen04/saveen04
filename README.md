@@ -104,9 +104,9 @@ Advanced ocean weather and marine monitoring platform built using Next.js, Node.
 
 AI-powered online examination monitoring system with face detection, voice analysis, and tab-switch detection.
 
-### 📱 Mobile Applications
+### 🐘 AnimAI
 
-Cross-platform mobile applications with modern UI/UX and scalable backend architecture.
+AI-specialized animal classification platform built using TensorFlow, Keras, Next.js, MongoDB, and Python.
 
 ---
 
@@ -122,9 +122,7 @@ Cross-platform mobile applications with modern UI/UX and scalable backend archit
 
 🚀 Always learning something new
 
----
-
-## 🌐 Connect With Me
+--
 
 ## 🌐 Connect With Me
 
