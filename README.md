@@ -112,6 +112,12 @@ AI-powered online examination monitoring system with face detection, voice analy
 
 AI-specialized animal classification platform built using TensorFlow, Keras, Next.js, MongoDB, and Python.
 
+### 🤖 NexaFlow
+
+AI-powered LLM generation with booking and customer support platform with intelligent ticket classification, webhook automation, and real-time analytics. 
+
+
+
 ---
 
 ## 💡 Fun Facts
