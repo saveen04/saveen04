@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saveen Kumar | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="logo">Saveen Kumar</div>
+        <ul class="navlist">
+            <li><a href="#home" class="navlink active">Home</a></li>
+            <li><a href="#about" class="navlink">About</a></li>
+            <li><a href="#skills" class="navlink">Skills</a></li>
+            <li><a href="#projects" class="navlink">Projects</a></li>
+            <li><a href="#experience" class="navlink">Experience</a></li>
+            <li><a href="#education" class="navlink">Education</a></li>
+            <li><a href="#contact" class="navlink">Contact</a></li>
+        </ul>
+        <a href="document/Saveen Kumar resume.pdf" class="btn" download>Resume</a>
+    </nav>
+
+    <div class="container">
+        <!-- Home Section -->
+        <section id="home" class="home">
+            <div class="content">
+                <h4>Welcome to my Portfolio</h4>
+                <h1>I'm <span>Saveen Kumar</span></h1>
+                <p>A Multi-disciplinary Software Engineer specializing in MERN Stack, AI Vision, and Cross-Platform
+                    Mobile Applications. Building scalable solutions for the future.</p>
+                <div style="display: flex; gap: 1.5rem;">
+                    <a href="#projects" class="btn">Explore Projects</a>
+                    <a href="#contact" class="btn btn-outline">Contact Me</a>
+                </div>
+            </div>
+            <div class="image-container">
+                <img src="images/Myself.png" alt="Saveen Kumar">
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about">
+            <h2 class="section-title">About <span>Me</span></h2>
+            <div style="display: flex; gap: 5rem; align-items: center; flex-wrap: wrap; justify-content: center;">
+                <div style="flex: 1; min-width: 300px; max-width: 400px;">
+                    <img src="images/Me.jpg" alt="Profile"
+                        style="width: 100%; border-radius: 2rem; border: 8px solid var(--yellow-clr);">
+                </div>
+                <div style="flex: 1.5; min-width: 300px;">
+                    <p style="font-size: 1.2rem; margin-bottom: 2rem;">I am a B.E. Computer Science student at Sri
+                        Eshwar College of Engineering. My goal is to bridge the gap between complex AI algorithms and
+                        intuitive user interfaces.</p>
+                    <p style="font-size: 1.1rem; color: var(--light-grey); margin-bottom: 3rem;">With hands-on
+                        experience in Full Stack development and a background in competitive programming, I bring a
+                        logical and innovative approach to every project.</p>
+                    <div style="display: flex; gap: 2rem; flex-wrap: wrap;">
+                        <a href="https://github.com/saveen04" target="_blank" class="btn btn-outline"><i class="fab fa-github"></i> GitHub</a>
+                        <a href="https://linkedin.com/in/saveen-kumar-12b65b284" target="_blank" class="btn btn-outline"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                        <a href="https://leetcode.com/u/Saveen_jr/" target="_blank" class="btn btn-outline"><i class="fas fa-terminal"></i> LeetCode</a>
+                        <a href="https://www.instagram.com/____.saveen.____" target="_blank" class="btn btn-outline"><i class="fab fa-instagram"></i> Instagram</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section id="skills">
+            <h2 class="section-title">My <span>Expertise</span></h2>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <i class="fab fa-react"></i>
+                    <h3>Web Stack</h3>
+                    <p>Next.js, React, Node.js, MongoDB</p>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-brain"></i>
+                    <h3>AI & Vision</h3>
+                    <p>CNN Model Training, Vision AI, Python</p>
+                </div>
+                <div class="skill-card">
+                    <i class="fab fa-google"></i>
+                    <h3>Mobile Dev</h3>
+                    <p>Flutter, Firebase, Dart</p>
+                </div>
+                <div class="skill-card">
+                    <i class="fas fa-code-branch"></i>
+                    <h3>Core Concepts</h3>
+                    <p>DSA, OOP, System Architecture</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects">
+            <h2 class="section-title">Latest <span>Innovations</span></h2>
+            <div class="projects-grid">
+                <!-- Oceanic -->
+                <div class="project-card">
+                    <div class="project-img">
+                        <img src="images/oceanic.png" alt="Oceanic Project">
+                    </div>
+                    <div class="project-info">
+                        <h3>Oceanic Monitoring</h3>
+                        <p>Dynamic web application for wave monitoring and SIH alerts. Integrated INCOIS and Open-meteo
+                            APIs with Power BI analytics.</p>
+                        <div class="explanation">
+                            <strong>Detailed Explanation:</strong> Designed to provide real-time oceanographic data
+                            alerts. The platform uses Next.js for SSR and MongoDB for archiving historical trend data,
+                            enabling scientific communities to track environmental shifts effectively.
+                        </div>
+                    </div>
+                </div>
+                <!-- AnimAI -->
+                <div class="project-card">
+                    <div class="project-img">
+                        <img src="images/animai.png" alt="AnimAI Project">
+                    </div>
+                    <div class="project-info">
+                        <h3>AnimAI Identification</h3>
+                        <p>Web-based AI application identifying animal species from live camera input using CNN models.
+                        </p>
+                        <div class="explanation">
+                            <strong>Detailed Explanation:</strong> Implemented a deep learning model using
+                            TensorFlow/CNN. The app features a live vision stream that classifies species instantly,
+                            leveraging a high-performance backend and Tailwind-polished frontend.
+                        </div>
+                    </div>
+                </div>
+                <!-- Veraxon -->
+                <div class="project-card">
+                    <div class="project-img">
+                        <img src="images/veraxon.png" alt="Veraxon Project">
+                    </div>
+                    <div class="project-info">
+                        <h3>Veraxon Proctoring</h3>
+                        <p>Secure online exam proctoring system with Google Vision AI for real-time monitoring.</p>
+                        <div class="explanation">
+                            <strong>Detailed Explanation:</strong> Built to ensure academic integrity. It monitors user
+                            behavior via webcam, detecting multiple faces or unauthorized objects. Integrated with
+                            Firebase for real-time flagging of violations.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Experience Section -->
+        <section id="experience">
+            <h2 class="section-title">Professional <span>Experience</span></h2>
+            <div class="timeline-container">
+                <div class="timeline-item">
+                    <span>2025</span>
+                    <h3>Full Stack Developer Intern</h3>
+                    <p><strong>Algo Tutor & Better Tomorrow</strong></p>
+                    <p style="margin-top: 1rem;">Focused on building secure MERN stack applications. Implemented JWT
+                        authentication, optimized database queries in MongoDB, and collaborated on high-performance API
+                        structures.</p>
+                </div>
+                <div class="timeline-item">
+                    <span>2024 - Present</span>
+                    <h3>Competitive Programmer</h3>
+                    <p><strong>Self-Driven</strong></p>
+                    <p style="margin-top: 1rem;">Maintaining a strong focus on algorithmic problem solving. Achieved
+                        Bronze level on CodeChef and solved 200+ problems on LeetCode with a consistent rating of 1355.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Education Section -->
+        <section id="education">
+            <h2 class="section-title">Academic <span>Background</span></h2>
+            <div class="timeline-container">
+                <div class="timeline-item">
+                    <span>2023 - 2027</span>
+                    <h3>B.E. Computer Science Engineering</h3>
+                    <p>Sri Eshwar College of Engineering | CGPA: 6.8</p>
+                </div>
+                <div class="timeline-item">
+                    <span>2021 - 2023</span>
+                    <h3>HSC (12th Grade)</h3>
+                    <p>Kshatriya Vidhyasala EM School | Percentage: 65.2</p>
+                </div>
+                <div class="timeline-item">
+                    <span>2020 - 2021</span>
+                    <h3>SSLC (10th Grade)</h3>
+                    <p>Kshatriya Vidhyasala EM School | Percentage: 71.5%</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact">
+            <h2 class="section-title">Get In <span>Touch</span></h2>
+            <div class="contact-content">
+                <p class="contact-text">I'm always open to discussing new projects, creative ideas, or opportunities to
+                    be part of your visions.</p>
+                <div class="info-grid">
+                    <div class="info-item">
+                        <i class="fas fa-envelope"></i>
+                        <p>saveen.jr2006@gmail.com</p>
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-phone"></i>
+                        <p>+91 9042829339</p>
+                    </div>
+                    <div class="info-item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <p>Coimbatore, India</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Saveen Kumar. Engineered for Excellence.</p>
+    </footer>
+
+    <script>
+        // Scroll-Spy logic to update active link
+        const sections = document.querySelectorAll('section');
+        const navLinks = document.querySelectorAll('.navlink');
+
+        window.onscroll = () => {
+            let current = '';
+
+            sections.forEach(section => {
+                const sectionTop = section.offsetTop;
+                if (pageYOffset >= sectionTop - 150) {
+                    current = section.getAttribute('id');
+                }
+            });
+
+            navLinks.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href').includes(current)) {
+                    link.classList.add('active');
+                }
+            });
+        };
+    </script>
+</body>
+
+</html>
