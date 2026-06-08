@@ -94,27 +94,23 @@
 <img src="https://github-profile-trophy.vercel.app/?username=saveen04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 <br>
 <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Expert-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python%20Developer-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Enthusiast-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-200%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-Bronze-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </p>
 
 ## 🚀 Featured Projects
 
-### 🌊 Oceanic
+### 🌊 Oceanic Monitoring
+Advanced oceanographic monitoring and SIH alert platform. Integrated **INCOIS** and **Open-meteo** APIs with real-time **Next.js** SSR and **Power BI** analytics for environmental shift tracking.
 
-Advanced ocean weather and marine monitoring platform built using Next.js, Node.js, MongoDB, and interactive maps.
+### 🛡️ Veraxon Proctoring
+AI-powered online examination monitoring system. Built with **Google Vision AI** for real-time face/object detection and **Firebase** for high-integrity violation flagging.
 
-### 🛡️ Veraxon
+### 🐘 AnimAI Identification
+Next-gen animal species identification platform. Leverages **TensorFlow/CNN** deep learning models for real-time classification via live camera streams.
 
-AI-powered online examination monitoring system with face detection, voice analysis, and tab-switch detection.
-
-### 🐘 AnimAI
-
-AI-specialized animal classification platform built using TensorFlow, Keras, Next.js, MongoDB, and Python.
-
-### 🤖 NexaFlow
-
-AI-powered LLM generation with booking and customer support platform with intelligent ticket classification, webhook automation, and real-time analytics. 
+### 🤖 NexaFlow AI
+Intelligent LLM orchestration platform with automated ticket classification, webhook integrations, and real-time support analytics.
 
 
 
